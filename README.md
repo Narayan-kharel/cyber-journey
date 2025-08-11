@@ -14,7 +14,7 @@ To become an entry-level cybersecurity analyst by gaining hands-on skills in net
 - Explored TCP/IP, MAC vs IP, HTTPS, DNS, and ports
 - Started TryHackMe: Introduction to Cybersecurity
 
-### Week 2 – Linux Essentials
+## Week 2 – Linux Essentials
 - Learned terminal commands
 - Practiced file handling, permissions, users
 
