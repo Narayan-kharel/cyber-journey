@@ -1,20 +1,20 @@
-# Cybersecurity Learning Journey 🚀
+# Cybersecurity Learning Journey
 
 Welcome to my cybersecurity learning portfolio!
 
-## 🎯 Goal
+## Goal
 To become an entry-level cybersecurity analyst by gaining hands-on skills in networking, Linux, security tools, and threat detection.
 
 ---
 
-## 📅 Weekly Progress
+## Weekly Progress
 
-### ✅ Week 1 – Cybersecurity & Networking Basics
+### Week 1 – Cybersecurity & Networking Basics
 - Learned about CIA Triad
 - Explored TCP/IP, MAC vs IP, HTTPS, DNS, and ports
 - Started TryHackMe: Introduction to Cybersecurity
 
-### 🐧 Week 2 – Linux Essentials
+### Week 2 – Linux Essentials
 - Learned terminal commands
 - Practiced file handling, permissions, users
 
@@ -22,7 +22,7 @@ _(More to come...)_
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - Git & GitHub
 - Wireshark
 - TryHackMe
@@ -30,10 +30,10 @@ _(More to come...)_
 
 ---
 
-## 🛡️ Certifications Planned
+##  Certifications Planned
 - CompTIA Security+
 - Google Cybersecurity Certificate
 
 ---
 
-Stay tuned as I learn and share my progress. 💪
+Stay tuned as I learn and share my progress.
